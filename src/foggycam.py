@@ -1,6 +1,6 @@
 """FoggyCam captures Nest camera images and generates a video."""
 
-from urllib.request import urlopen
+from urllib import urlopen
 import pickle
 import urllib
 import json
